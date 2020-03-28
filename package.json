@@ -1,0 +1,26 @@
+{
+  "name": "tsrpg",
+  "version": "1.0.0",
+  "description": "tsrpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienmichaux/tsrpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienmichaux/tsrpg/issues"
+  },
+  "homepage": "https://github.com/bastienmichaux/tsrpg#readme",
+  "devDependencies": {
+    "sass": "^1.26.3",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1"
+  }
+}
